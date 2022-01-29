@@ -3,13 +3,13 @@
 
 This repository is used to save the progress of the Fall 2021 Network Analysis Project. The goal of this project was to build a recommendation system for github repositories, based on the 2009 GitHub bipartite network, representing User-Repository-Watches (unweighted) relationships. A similar pipeline as used within this project can be applied generically to any bipartite graph, to build a recommendation for either of the two classes.
 
-While the focus of this project was on understanding, applying and argue in favor or against theoretical concepts of network analysis using real-life data, the final product - a recommendation graph (that was statically saved for a max of 5 recommendations) - was  translated into a simple web-app, that can be visited via the following link:
+While the focus of this project was on understanding, applying and argue in favor or against theoretical concepts of network analysis using real-life data, the final product - a recommendation graph (that was statically saved for a max of 5 recommendations) - was  translated into a simple web-app. Below, you can find all the important resources:
 
-:arrow_forward: **[https://na-project.netlify.app/](https://na-project.netlify.app/)**
+:arrow_forward: **[Web application](https://na-project.netlify.app/)**
 
 Other useful links:
 
- :arrow_forward: **[project presentation](https://docs.google.com/presentation/d/13dyLBafxCt2VNjRtrBzkrYpuNhHQViyT52FdB1JcBHQ/edit?usp=sharing)**
+ :arrow_forward: **[Project presentation](https://docs.google.com/presentation/d/13dyLBafxCt2VNjRtrBzkrYpuNhHQViyT52FdB1JcBHQ/edit?usp=sharing)**
 
  :arrow_forward: **[Course notes](https://ludekcizinsky.notion.site/fae38de7e03c4b8c81dc2ae416291faf?v=00e52a0941d4498791bfc78b2570ce37)**
 
