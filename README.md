@@ -7,8 +7,6 @@ While the focus of this project was on understanding, applying and argue in favo
 
 :arrow_forward: **[Web application](https://na-project.netlify.app/)**
 
-Other useful links:
-
  :arrow_forward: **[Project presentation](https://docs.google.com/presentation/d/13dyLBafxCt2VNjRtrBzkrYpuNhHQViyT52FdB1JcBHQ/edit?usp=sharing)**
 
  :arrow_forward: **[Course notes](https://ludekcizinsky.notion.site/fae38de7e03c4b8c81dc2ae416291faf?v=00e52a0941d4498791bfc78b2570ce37)**
