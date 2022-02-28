@@ -31,7 +31,7 @@ const Repo = ({ name, found, last }) => {
 
         const res = await fetch(api, {
             headers: {
-                Authorization: 'token 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',
+                Authorization: 'token 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',
             },
         });
         let data = await res.json();
