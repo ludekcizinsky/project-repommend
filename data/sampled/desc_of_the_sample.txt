@@ -1,6 +1,0 @@
-#Edges 10000
-#Nodes 10986
-
-#AVG degree 0.91
-
-#Number of weakly connected components 1688
